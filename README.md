@@ -12,7 +12,9 @@ This repository is a cleaned and simplified version of the original coursework i
 
 Pytest
 python -m src.health_app.data -- ran from previous oblig 
+
 python -m src.health_app.health -- ran from previous oblig 
+
 python -m src.health_app.main -- ran from previous oblig 
 
 Building docker image:
