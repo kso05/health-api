@@ -1,0 +1,51 @@
+[
+  {
+    "name": "1",
+    "weight_kg": 1.0,
+    "height_m": 1.0,
+    "bmi": 1.0,
+    "bmi_category": "Underweight"
+  },
+  {
+    "name": "fe",
+    "weight_kg": 2.0,
+    "height_m": 123.0,
+    "bmi": 0.0,
+    "bmi_category": "Underweight"
+  },
+  {
+    "name": "jr",
+    "weight_kg": 13.0,
+    "height_m": 123.0,
+    "bmi": 0.0,
+    "bmi_category": "Underweight"
+  },
+  {
+    "name": "Victoria",
+    "weight_kg": 90,
+    "height_m": 1.75,
+    "bmi": 29.39,
+    "bmi_category": "Overweight"
+  },
+  {
+    "name": "Victoria",
+    "weight_kg": 90,
+    "height_m": 1.75,
+    "bmi": 29.39,
+    "bmi_category": "Overweight"
+  },
+  {
+    "name": "Victoria",
+    "weight_kg": 90,
+    "height_m": 1.75,
+    "bmi": 29.39,
+    "bmi_category": "Overweight"
+  },
+  {
+    "name": "Victoria",
+    "weight_kg": 90,
+    "height_m": 1.75,
+    "bmi": 29.39,
+    "bmi_category": "Overweight"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Victoria",
+    "weight_kg": 90,
+    "height_m": 1.75,
+    "bmi": 29.39,
+    "bmi_category": "Overweight"
+  },
+  {
+    "name": "Millie",
+    "weight_kg": 50,
+    "height_m": 1.8,
+    "bmi": 15.43,
+    "bmi_category": "Underweight"
+  }
+]
